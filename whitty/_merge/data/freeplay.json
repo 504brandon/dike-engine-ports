@@ -20,6 +20,12 @@
                     "icon": "ballbomb",
                     "difficulties": ["Easy", "Normal", "Hard", "New"],
                     "color": "#CE002C"
+                },
+                {
+                    "name": "Remorse",
+                    "icon": "updike",
+                    "difficulties": ["Normal"],
+                    "color": "#E1E1E1"
                 }
             ]
         }
