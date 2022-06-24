@@ -1,0 +1,27 @@
+{
+    "merge": [
+        {
+            "target": "songs",
+            "payload": [
+                {
+                    "name": "Lo-fight",
+                    "icon": "whitty",
+                    "difficulties": ["Easy", "Normal", "Hard"],
+                    "color": "#1D1E35"
+                },
+                {
+                    "name": "Overhead",
+                    "icon": "whitty",
+                    "difficulties": ["Easy", "Normal", "Hard"],
+                    "color": "#1D1E35"
+                },
+                {
+                    "name": "Ballistic",
+                    "icon": "ballbomb",
+                    "difficulties": ["Easy", "Normal", "Hard", "New"],
+                    "color": "#CE002C"
+                }
+            ]
+        }
+    ]
+}

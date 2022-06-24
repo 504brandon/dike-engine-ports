@@ -1,0 +1,27 @@
+{
+    "merge": [
+        {
+            "target": "songs",
+            "payload": [
+                {
+                    "name": "Gimme-a-break",
+                    "icon": "cg5",
+                    "difficulties": ["Easy", "Normal", "Hard"],
+                    "color": "#FF5054"
+                },
+                {
+                    "name": "Man-on-stilts",
+                    "icon": "cg5",
+                    "difficulties": ["Easy", "Normal", "Hard"],
+                    "color": "#FF5054"
+                },
+                {
+                    "name": "Knock-knock",
+                    "icon": "cg5",
+                    "difficulties": ["Easy", "Normal", "Hard", "New"],
+                    "color": "#FF5054"
+                }
+            ]
+        }
+    ]
+}
