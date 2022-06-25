@@ -1,0 +1,15 @@
+{
+    "merge": [
+    	{
+            "target": "songs",
+            "payload": [
+                {
+                    "name": "Crossing-my-road",
+                    "icon": "noob",
+                    "difficulties": ["Easy", "Normal", "Hard"],
+                    "color": "#F3CF0A"
+                }
+            ]
+	    }
+    ]
+}
