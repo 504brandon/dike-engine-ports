@@ -13,4 +13,5 @@ function createCharacter() {
     character.playAnim('idle');
 
     character.health_color = 0xFFF3CF0A;
+
 }
