@@ -1,0 +1,15 @@
+{
+    "merge": [
+    	{
+            "target": "weeks",
+            "payload": [
+                {
+                    "name": "backallyblitz",
+                    "songs": ["Lo-fight", "Overhead", "Ballistic"],
+                    "difficulties": ["Easy", "Normal", "Hard"],
+                    "characters": ["dad", "bf", "gf"]
+                }
+            ]
+	    }
+    ]
+}
